@@ -1,15 +1,15 @@
-baseurl = ""
+BaseURL = "https://black-mud-0b39c7503.azurestaticapps.net/"
 languageCode = "en-us"
 title = "I am Josef Fürlinger"
 theme = "anatole"
-uglyurls = true
-relativeurls = true
+RelativeURLs = true
+CanonifyURLs = true
 
 [params]
 author = "Josef Fürlinger"
 description = "Call me Joe"
-profilePicture = "images/profile.jpg"
-mainSections = ["posts"]
+profilePicture = "images/profile.png"
+mainSections = ["post"]
 displayMode = "dark"
 
 
@@ -48,8 +48,8 @@ url = "mailto:josef.fuerlinger@gmail.com"
   [[menu.main]]
   name = "Posts"
   weight = 200
-  identifier = "posts"
-  url = "/posts/"
+  identifier = "post"
+  url = "/post/"
 
   [[menu.main]]
   name = "About"
