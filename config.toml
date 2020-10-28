@@ -1,7 +1,9 @@
-baseURL = "https://black-mud-0b39c7503.azurestaticapps.net/"
+baseurl = ""
 languageCode = "en-us"
 title = "I am Josef Fürlinger"
 theme = "anatole"
+uglyurls = true
+relativeurls = true
 
 [params]
 author = "Josef Fürlinger"
@@ -9,6 +11,7 @@ description = "Call me Joe"
 profilePicture = "images/profile.jpg"
 mainSections = ["posts"]
 displayMode = "dark"
+
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.

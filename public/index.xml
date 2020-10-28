@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I am Josef Fürlinger</title>
-    <link>https://black-mud-0b39c7503.azurestaticapps.net/</link>
+    <link>/</link>
     <description>Recent content on I am Josef Fürlinger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://black-mud-0b39c7503.azurestaticapps.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
