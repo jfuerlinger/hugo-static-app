@@ -8,6 +8,7 @@ author = "Josef Fürlinger"
 description = "Call me Joe"
 profilePicture = "images/profile.jpg"
 mainSections = ["posts"]
+displayMode = "dark"
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
