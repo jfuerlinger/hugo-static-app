@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I am Josef Fürlinger</title>
-    <link>https://black-mud-0b39c7503.azurestaticapps.net/</link>
+    <link>/</link>
     <description>Recent content on I am Josef Fürlinger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 20:45:40 +0100</lastBuildDate><atom:link href="https://black-mud-0b39c7503.azurestaticapps.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 20:45:40 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fourth Post</title>
-      <link>https://black-mud-0b39c7503.azurestaticapps.net/post/my-fourth-post/</link>
+      <link>/post/my-fourth-post/</link>
       <pubDate>Wed, 28 Oct 2020 20:45:40 +0100</pubDate>
       
-      <guid>https://black-mud-0b39c7503.azurestaticapps.net/post/my-fourth-post/</guid>
+      <guid>/post/my-fourth-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Third Post</title>
-      <link>https://black-mud-0b39c7503.azurestaticapps.net/post/my-third-post/</link>
+      <link>/post/my-third-post/</link>
       <pubDate>Wed, 28 Oct 2020 20:45:34 +0100</pubDate>
       
-      <guid>https://black-mud-0b39c7503.azurestaticapps.net/post/my-third-post/</guid>
+      <guid>/post/my-third-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>https://black-mud-0b39c7503.azurestaticapps.net/post/my-second-post/</link>
+      <link>/post/my-second-post/</link>
       <pubDate>Wed, 28 Oct 2020 20:45:05 +0100</pubDate>
       
-      <guid>https://black-mud-0b39c7503.azurestaticapps.net/post/my-second-post/</guid>
+      <guid>/post/my-second-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://black-mud-0b39c7503.azurestaticapps.net/post/my-first-post/</link>
+      <link>/post/my-first-post/</link>
       <pubDate>Wed, 28 Oct 2020 20:17:30 +0100</pubDate>
       
-      <guid>https://black-mud-0b39c7503.azurestaticapps.net/post/my-first-post/</guid>
+      <guid>/post/my-first-post/</guid>
       <description>Hallo ich bins Joe
 I am a paragraph in Markdown with line wrapping so fit in this width. I am a continuation of the first paragraph as there is no empty line before me.
 I am the second paragraph.

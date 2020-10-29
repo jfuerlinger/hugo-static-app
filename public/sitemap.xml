@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://black-mud-0b39c7503.azurestaticapps.net/</loc>
+    <loc>/</loc>
     <lastmod>2020-10-28T20:45:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://black-mud-0b39c7503.azurestaticapps.net/post/my-fourth-post/</loc>
+    <loc>/post/my-fourth-post/</loc>
     <lastmod>2020-10-28T20:45:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://black-mud-0b39c7503.azurestaticapps.net/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-10-28T20:45:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://black-mud-0b39c7503.azurestaticapps.net/post/my-third-post/</loc>
+    <loc>/post/my-third-post/</loc>
     <lastmod>2020-10-28T20:45:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://black-mud-0b39c7503.azurestaticapps.net/post/my-second-post/</loc>
+    <loc>/post/my-second-post/</loc>
     <lastmod>2020-10-28T20:45:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://black-mud-0b39c7503.azurestaticapps.net/post/my-first-post/</loc>
+    <loc>/post/my-first-post/</loc>
     <lastmod>2020-10-28T20:17:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://black-mud-0b39c7503.azurestaticapps.net/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://black-mud-0b39c7503.azurestaticapps.net/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
