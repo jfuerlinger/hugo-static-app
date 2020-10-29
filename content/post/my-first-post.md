@@ -22,3 +22,14 @@ I have line break before me and even though
 I am not a new paragraph, I do start on a
 new line due to the manual line break via
 spaces before the newline character.
+
+
+
+<ul>
+  {{ $dataJ := getJSON "/api/GetAppointments" }}
+  {{ range first 5 $dataJ }}
+    {{ if .public }}
+      <li>{{ .displayName }}</li>
+    {{ end }}
+  {{ end }}
+</ul>
